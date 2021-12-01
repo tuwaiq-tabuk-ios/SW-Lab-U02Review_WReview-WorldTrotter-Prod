@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  WorldTrotter-Review-Maha-MohammedQ
+
+  Created by Maha S on 01/12/2021.
+  
+*/
+/* Hybrid map view */
+"Hybrid" = "Híbrido";
+/* Satellite map view */
+"Satellite" = "Satélite";
+/* Standard map view */
+"Standard" = "Estándar";
+"degrees Fahrenheit" = "grados Fahrenheit";
+"is really" = "es realmente";
+"degrees Celsius" = "grados Celsius";
+"Points of Interest" = "Punts d'interés";
