@@ -1,0 +1,431 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 54;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0005142F27576849004FFEDA /* UIViewController+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0005142E27576849004FFEDA /* UIViewController+Ext.swift */; };
+		00A4484C275759EE00F78F7A /* MapVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00A4484B275759EE00F78F7A /* MapVC.swift */; };
+		39839A762754BD2A00318C4B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39839A752754BD2A00318C4B /* AppDelegate.swift */; };
+		39839A782754BD2A00318C4B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39839A772754BD2A00318C4B /* SceneDelegate.swift */; };
+		39839A7A2754BD2A00318C4B /* ConversionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39839A792754BD2A00318C4B /* ConversionVC.swift */; };
+		39839A7D2754BD2A00318C4B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39839A7B2754BD2A00318C4B /* Main.storyboard */; };
+		39839A7F2754BD2C00318C4B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 39839A7E2754BD2C00318C4B /* Assets.xcassets */; };
+		39839A822754BD2C00318C4B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39839A802754BD2C00318C4B /* LaunchScreen.storyboard */; };
+		39839A8A2754CDB600318C4B /* MapVCProgrammatically.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39839A892754CDB500318C4B /* MapVCProgrammatically.swift */; };
+		39839A8E2755FC9A00318C4B /* ConversionVCProgrammatically.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39839A8D2755FC9A00318C4B /* ConversionVCProgrammatically.swift */; };
+		39839A912756089800318C4B /* UIColor+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39839A902756089700318C4B /* UIColor+Ext.swift */; };
+		39839A94275609E800318C4B /* CMLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39839A93275609E800318C4B /* CMLabel.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0005142E27576849004FFEDA /* UIViewController+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+Ext.swift"; sourceTree = "<group>"; };
+		00A4484B275759EE00F78F7A /* MapVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapVC.swift; sourceTree = "<group>"; };
+		39839A722754BD2A00318C4B /* WorldTrotter-Review-“Mona&Areej".app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "WorldTrotter-Review-“Mona&Areej\".app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		39839A752754BD2A00318C4B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		39839A772754BD2A00318C4B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		39839A792754BD2A00318C4B /* ConversionVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConversionVC.swift; sourceTree = "<group>"; };
+		39839A7C2754BD2A00318C4B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		39839A7E2754BD2C00318C4B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		39839A812754BD2C00318C4B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		39839A832754BD2C00318C4B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		39839A892754CDB500318C4B /* MapVCProgrammatically.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapVCProgrammatically.swift; sourceTree = "<group>"; };
+		39839A8D2755FC9A00318C4B /* ConversionVCProgrammatically.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConversionVCProgrammatically.swift; sourceTree = "<group>"; };
+		39839A902756089700318C4B /* UIColor+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+Ext.swift"; sourceTree = "<group>"; };
+		39839A93275609E800318C4B /* CMLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CMLabel.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		39839A6F2754BD2A00318C4B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		39839A692754BD2A00318C4B = {
+			isa = PBXGroup;
+			children = (
+				39839A742754BD2A00318C4B /* WorldTrotter-Review-“Mona&Areej" */,
+				39839A732754BD2A00318C4B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		39839A732754BD2A00318C4B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				39839A722754BD2A00318C4B /* WorldTrotter-Review-“Mona&Areej".app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		39839A742754BD2A00318C4B /* WorldTrotter-Review-“Mona&Areej" */ = {
+			isa = PBXGroup;
+			children = (
+				39839A9527560A0600318C4B /* Support */,
+				39839A92275609AF00318C4B /* Custom_Views */,
+				39839A8F2756085200318C4B /* Extension */,
+				39839A8B2754DD5300318C4B /* Controller */,
+				39839A8C2754DDA400318C4B /* View */,
+				39839A7E2754BD2C00318C4B /* Assets.xcassets */,
+				39839A802754BD2C00318C4B /* LaunchScreen.storyboard */,
+				39839A832754BD2C00318C4B /* Info.plist */,
+			);
+			path = "WorldTrotter-Review-“Mona&Areej\"";
+			sourceTree = "<group>";
+		};
+		39839A8B2754DD5300318C4B /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				39839A892754CDB500318C4B /* MapVCProgrammatically.swift */,
+				00A4484B275759EE00F78F7A /* MapVC.swift */,
+				39839A792754BD2A00318C4B /* ConversionVC.swift */,
+				39839A8D2755FC9A00318C4B /* ConversionVCProgrammatically.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		39839A8C2754DDA400318C4B /* View */ = {
+			isa = PBXGroup;
+			children = (
+				39839A7B2754BD2A00318C4B /* Main.storyboard */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		39839A8F2756085200318C4B /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				39839A902756089700318C4B /* UIColor+Ext.swift */,
+				0005142E27576849004FFEDA /* UIViewController+Ext.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		39839A92275609AF00318C4B /* Custom_Views */ = {
+			isa = PBXGroup;
+			children = (
+				39839A93275609E800318C4B /* CMLabel.swift */,
+			);
+			path = Custom_Views;
+			sourceTree = "<group>";
+		};
+		39839A9527560A0600318C4B /* Support */ = {
+			isa = PBXGroup;
+			children = (
+				39839A752754BD2A00318C4B /* AppDelegate.swift */,
+				39839A772754BD2A00318C4B /* SceneDelegate.swift */,
+			);
+			path = Support;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		39839A712754BD2A00318C4B /* WorldTrotter-Review-“Mona&Areej" */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 39839A862754BD2C00318C4B /* Build configuration list for PBXNativeTarget "WorldTrotter-Review-“Mona&Areej"" */;
+			buildPhases = (
+				39839A6E2754BD2A00318C4B /* Sources */,
+				39839A6F2754BD2A00318C4B /* Frameworks */,
+				39839A702754BD2A00318C4B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "WorldTrotter-Review-“Mona&Areej\"";
+			productName = "WorldTrotter-Review-“Mona&Areej\"";
+			productReference = 39839A722754BD2A00318C4B /* WorldTrotter-Review-“Mona&Areej".app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		39839A6A2754BD2A00318C4B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1310;
+				LastUpgradeCheck = 1310;
+				TargetAttributes = {
+					39839A712754BD2A00318C4B = {
+						CreatedOnToolsVersion = 13.1;
+					};
+				};
+			};
+			buildConfigurationList = 39839A6D2754BD2A00318C4B /* Build configuration list for PBXProject "WorldTrotter-Review-“Mona&Areej"" */;
+			compatibilityVersion = "Xcode 12.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 39839A692754BD2A00318C4B;
+			productRefGroup = 39839A732754BD2A00318C4B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				39839A712754BD2A00318C4B /* WorldTrotter-Review-“Mona&Areej" */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		39839A702754BD2A00318C4B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				39839A822754BD2C00318C4B /* LaunchScreen.storyboard in Resources */,
+				39839A7F2754BD2C00318C4B /* Assets.xcassets in Resources */,
+				39839A7D2754BD2A00318C4B /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		39839A6E2754BD2A00318C4B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				00A4484C275759EE00F78F7A /* MapVC.swift in Sources */,
+				39839A7A2754BD2A00318C4B /* ConversionVC.swift in Sources */,
+				39839A762754BD2A00318C4B /* AppDelegate.swift in Sources */,
+				39839A782754BD2A00318C4B /* SceneDelegate.swift in Sources */,
+				39839A912756089800318C4B /* UIColor+Ext.swift in Sources */,
+				39839A8A2754CDB600318C4B /* MapVCProgrammatically.swift in Sources */,
+				39839A94275609E800318C4B /* CMLabel.swift in Sources */,
+				39839A8E2755FC9A00318C4B /* ConversionVCProgrammatically.swift in Sources */,
+				0005142F27576849004FFEDA /* UIViewController+Ext.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		39839A7B2754BD2A00318C4B /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				39839A7C2754BD2A00318C4B /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		39839A802754BD2C00318C4B /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				39839A812754BD2C00318C4B /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		39839A842754BD2C00318C4B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		39839A852754BD2C00318C4B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		39839A872754BD2C00318C4B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = S2J33S59Q6;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "WorldTrotter-Review-“Mona&Areej\"/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mona.WorldTrotter-Review--Mona-Areej-";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		39839A882754BD2C00318C4B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = S2J33S59Q6;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "WorldTrotter-Review-“Mona&Areej\"/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mona.WorldTrotter-Review--Mona-Areej-";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		39839A6D2754BD2A00318C4B /* Build configuration list for PBXProject "WorldTrotter-Review-“Mona&Areej"" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				39839A842754BD2C00318C4B /* Debug */,
+				39839A852754BD2C00318C4B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		39839A862754BD2C00318C4B /* Build configuration list for PBXNativeTarget "WorldTrotter-Review-“Mona&Areej"" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				39839A872754BD2C00318C4B /* Debug */,
+				39839A882754BD2C00318C4B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 39839A6A2754BD2A00318C4B /* Project object */;
+}
