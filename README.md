@@ -81,3 +81,13 @@ WorldTrotter application where the user can convert temperatures from degrees Fa
 
 ## Deadline 
 Review _**Pair Programming**_ without deadline
+
+## ScreenShot
+![Simulator Screen Shot - iPhone 12 - 2021-12-01 at 16 27 58](https://user-images.githubusercontent.com/89598376/144242986-5a42f504-a8c8-4d07-bb4c-f16dd4866865.png)
+
+![Simulator Screen Shot - iPhone 12 - 2021-12-01 at 16 27 50](https://user-images.githubusercontent.com/89598376/144243016-802c2e25-5a5b-4b3e-ae08-5dd1d8d0955b.png)
+
+![Simulator Screen Shot - iPhone 12 - 2021-12-01 at 16 27 27](https://user-images.githubusercontent.com/89598376/144243049-fb8b6675-860c-42b2-96d4-b34893128733.png)
+
+![Simulator Screen Shot - iPhone 12 - 2021-12-01 at 16 27 22](https://user-images.githubusercontent.com/89598376/144243072-a84bea03-76ef-4f77-8619-b416e1d44430.png)
+
