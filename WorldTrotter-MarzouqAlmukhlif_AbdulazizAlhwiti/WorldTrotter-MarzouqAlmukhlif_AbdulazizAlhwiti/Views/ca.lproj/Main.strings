@@ -1,0 +1,39 @@
+
+/* Class = "UITabBarItem"; title = "Convert-Programmatically"; ObjectID = "25n-GP-p1I"; */
+"25n-GP-p1I.title" = "Convertir-Programàticament";
+
+/* Class = "UILabel"; text = "Points of Interest"; ObjectID = "3Qf-cS-Slt"; */
+"3Qf-cS-Slt.text" = "Punts d'interés";
+
+/* Class = "UILabel"; text = "is really"; ObjectID = "5Mh-Pj-9yH"; */
+"5Mh-Pj-9yH.text" = "es realment";
+
+/* Class = "UITabBarItem"; title = "Map-Programmatically"; ObjectID = "K1V-9f-2OK"; */
+"K1V-9f-2OK.title" = "Mapa-Programàticament";
+
+/* Class = "UISegmentedControl"; L3h-Cp-a3d.segmentTitles[0] = "Standard"; ObjectID = "L3h-Cp-a3d"; */
+"L3h-Cp-a3d.segmentTitles[0]" = "Estàndard";
+
+/* Class = "UISegmentedControl"; L3h-Cp-a3d.segmentTitles[1] = "Hybrid"; ObjectID = "L3h-Cp-a3d"; */
+"L3h-Cp-a3d.segmentTitles[1]" = "Híbrid";
+
+/* Class = "UISegmentedControl"; L3h-Cp-a3d.segmentTitles[2] = "Satellite"; ObjectID = "L3h-Cp-a3d"; */
+"L3h-Cp-a3d.segmentTitles[2]" = "Satèl·lit";
+
+/* Class = "UITextField"; placeholder = "value"; ObjectID = "ehJ-RV-lKq"; */
+"ehJ-RV-lKq.placeholder" = "valor";
+
+/* Class = "UILabel"; text = "degrees Celsius"; ObjectID = "frn-TU-GVb"; */
+"frn-TU-GVb.text" = "graus Celsius";
+
+/* Class = "UITabBarItem"; title = "Convert-Storyboard"; ObjectID = "his-Kg-Lab"; */
+"his-Kg-Lab.title" = "Converteix-Storyboard";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "lk5-fC-tBb"; */
+"lk5-fC-tBb.text" = "100";
+
+/* Class = "UITabBarItem"; title = "Map-Storyboard"; ObjectID = "sCb-Ui-gWf"; */
+"sCb-Ui-gWf.title" = "Mapa-Storyboard";
+
+/* Class = "UILabel"; text = "degrees Fahrenheit"; ObjectID = "yKI-1W-xSL"; */
+"yKI-1W-xSL.text" = "graus Fahrenheit";
