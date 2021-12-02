@@ -1,0 +1,27 @@
+
+/* Class = "UITextField"; placeholder = "Value"; ObjectID = "4yM-s8-047"; */
+"4yM-s8-047.placeholder" = "قيمة";
+
+/* Class = "UILabel"; text = "degrees Fahrenheit"; ObjectID = "9W5-qP-Wep"; */
+"9W5-qP-Wep.text" = "درجة الفهرنهايت";
+
+/* Class = "UITabBarItem"; title = "Convert"; ObjectID = "BPV-8s-378"; */
+"BPV-8s-378.title" = "تحويل";
+
+/* Class = "UITabBarItem"; title = "Convert"; ObjectID = "CFJ-2W-flj"; */
+"CFJ-2W-flj.title" = "تحويل";
+
+/* Class = "UILabel"; text = "is really"; ObjectID = "CY2-hR-iZY"; */
+"CY2-hR-iZY.text" = "تساوي";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "N8S-3i-Euu"; */
+"N8S-3i-Euu.title" = "خريطة";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "jVS-Rt-vjS"; */
+"jVS-Rt-vjS.title" = "خريطة";
+
+/* Class = "UILabel"; text = "degrees Celsius"; ObjectID = "jZY-9n-XXs"; */
+"jZY-9n-XXs.text" = "الدرجةالمئوية";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "nqs-jC-LjT"; */
+"nqs-jC-LjT.text" = "١٠٠";
