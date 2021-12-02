@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  WorldTrotter-MarzouqAlmukhlif_AbdulazizAlhwiti
+
+  Created by azooz alhwiti on 01/12/2021.
+  
+*/
+
+"Satellite" = "القمر الصناعية";
+
+"Hybrid" = "التضاريس";
+
+"Standard" = "القياسي";
+
+"Points of Interest" = "نقاط الاهتمام";
+
+"value" = "قيمة";
+
+"degrees Fahrenheit" = "درجة فهرنهايت";
+
+"is really" = "هي حقا";
+
+"degrees Celsius" = "درجة مئوية";
