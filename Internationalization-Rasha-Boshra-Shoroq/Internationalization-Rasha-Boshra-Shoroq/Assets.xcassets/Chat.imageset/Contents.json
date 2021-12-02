@@ -1,0 +1,98 @@
+{
+  "images" : [
+    {
+      "filename" : "Chat.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Chat@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Chat@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    },
+    {
+      "filename" : "Chat_ar.png",
+      "idiom" : "universal",
+      "locale" : "ar",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Chat_ar@2x.png",
+      "idiom" : "universal",
+      "locale" : "ar",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Chat_ar@3x.png",
+      "idiom" : "universal",
+      "locale" : "ar",
+      "scale" : "3x"
+    },
+    {
+      "filename" : "Chat-cat.png",
+      "idiom" : "universal",
+      "locale" : "ca",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Chat-cat@2x.png",
+      "idiom" : "universal",
+      "locale" : "ca",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Chat-cat@3x.png",
+      "idiom" : "universal",
+      "locale" : "ca",
+      "scale" : "3x"
+    },
+    {
+      "filename" : "Chat-fr.png",
+      "idiom" : "universal",
+      "locale" : "fr",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Chat-fr@2x.png",
+      "idiom" : "universal",
+      "locale" : "fr",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Chat-fr@3x.png",
+      "idiom" : "universal",
+      "locale" : "fr",
+      "scale" : "3x"
+    },
+    {
+      "filename" : "Chat-es.png",
+      "idiom" : "universal",
+      "locale" : "es",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Chat-es@3x.png",
+      "idiom" : "universal",
+      "locale" : "es",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Chat-es@3x-1.png",
+      "idiom" : "universal",
+      "locale" : "es",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "localizable" : true
+  }
+}
