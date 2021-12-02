@@ -1,0 +1,48 @@
+
+/* Class = "UITabBarItem"; title = "MapKit"; ObjectID = "169-nz-np1"; */
+"169-nz-np1.title" = "الخريطة";
+
+/* Class = "UISegmentedControl"; 7F9-KX-Ibn.segmentTitles[0] = "Standerd"; ObjectID = "7F9-KX-Ibn"; */
+"7F9-KX-Ibn.segmentTitles[0]" = "الاساسية";
+
+/* Class = "UISegmentedControl"; 7F9-KX-Ibn.segmentTitles[1] = "Hybird"; ObjectID = "7F9-KX-Ibn"; */
+"7F9-KX-Ibn.segmentTitles[1]" = "قياسية";
+
+/* Class = "UISegmentedControl"; 7F9-KX-Ibn.segmentTitles[2] = "Satellite"; ObjectID = "7F9-KX-Ibn"; */
+"7F9-KX-Ibn.segmentTitles[2]" = "القمر الصناعي ";
+
+/* Class = "UILabel"; text = "degrees Fahrenheit"; ObjectID = "Bpd-TQ-ouJ"; */
+"Bpd-TQ-ouJ.text" = "درجة الحرارة";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "ESW-fK-Q6G"; */
+"ESW-fK-Q6G.text" = "100";
+
+/* Class = "UILabel"; text = "is really"; ObjectID = "Exs-pm-rFz"; */
+"Exs-pm-rFz.text" = "حقاً";
+
+/* Class = "UITabBarItem"; title = "Maps"; ObjectID = "G49-fs-Cwt"; */
+"G49-fs-Cwt.title" = "الخرائط";
+
+/* Class = "UITabBarItem"; title = "MapPr"; ObjectID = "IxI-Bo-30g"; */
+"IxI-Bo-30g.title" = "الخريطة برمجياً";
+
+/* Class = "UITabBarItem"; title = "ConverterSB"; ObjectID = "Mfs-vn-oDi"; */
+"Mfs-vn-oDi.title" = "المحول";
+
+/* Class = "UILabel"; text = "degrees Celsius"; ObjectID = "S7i-8F-x2h"; */
+"S7i-8F-x2h.text" = "الدرجة المئوية";
+
+/* Class = "UITabBarItem"; title = "ConverterPr"; ObjectID = "ew2-hL-kGg"; */
+"ew2-hL-kGg.title" = "المحول برمجياً";
+
+/* Class = "UITextField"; placeholder = "Value"; ObjectID = "jWd-jz-obc"; */
+"jWd-jz-obc.placeholder" = "القيمة";
+
+/* Class = "UITabBarItem"; title = "convertors"; ObjectID = "nPY-eV-eaT"; */
+"nPY-eV-eaT.title" = "المحولات";
+
+/* Class = "UITabBarItem"; title = "MapPr"; ObjectID = "r9n-PH-Qu4"; */
+"r9n-PH-Qu4.title" = "الخريطة برمجياً";
+
+/* Class = "UILabel"; text = "Points of Interest Label"; ObjectID = "xSf-9C-3dB"; */
+"xSf-9C-3dB.text" = "نقطة الاهتمام";

@@ -1,0 +1,48 @@
+
+/* Class = "UITabBarItem"; title = "MapKit"; ObjectID = "169-nz-np1"; */
+"169-nz-np1.title" = "MapKit";
+
+/* Class = "UISegmentedControl"; 7F9-KX-Ibn.segmentTitles[0] = "Standerd"; ObjectID = "7F9-KX-Ibn"; */
+"7F9-KX-Ibn.segmentTitles[0]" = "Estándar";
+
+/* Class = "UISegmentedControl"; 7F9-KX-Ibn.segmentTitles[1] = "Hybird"; ObjectID = "7F9-KX-Ibn"; */
+"7F9-KX-Ibn.segmentTitles[1]" = "Hybird";
+
+/* Class = "UISegmentedControl"; 7F9-KX-Ibn.segmentTitles[2] = "Satellite"; ObjectID = "7F9-KX-Ibn"; */
+"7F9-KX-Ibn.segmentTitles[2]" = "Satélite";
+
+/* Class = "UILabel"; text = "degrees Fahrenheit"; ObjectID = "Bpd-TQ-ouJ"; */
+"Bpd-TQ-ouJ.text" = "grados Fahrenheit";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "ESW-fK-Q6G"; */
+"ESW-fK-Q6G.text" = "100";
+
+/* Class = "UILabel"; text = "is really"; ObjectID = "Exs-pm-rFz"; */
+"Exs-pm-rFz.text" = "realmente es";
+
+/* Class = "UITabBarItem"; title = "Maps"; ObjectID = "G49-fs-Cwt"; */
+"G49-fs-Cwt.title" = "Mapa";
+
+/* Class = "UITabBarItem"; title = "MapPr"; ObjectID = "IxI-Bo-30g"; */
+"IxI-Bo-30g.title" = "MapPr";
+
+/* Class = "UITabBarItem"; title = "ConverterSB"; ObjectID = "Mfs-vn-oDi"; */
+"Mfs-vn-oDi.title" = "ConverterSB";
+
+/* Class = "UILabel"; text = "degrees Celsius"; ObjectID = "S7i-8F-x2h"; */
+"S7i-8F-x2h.text" = "grados Celsius";
+
+/* Class = "UITabBarItem"; title = "ConverterPr"; ObjectID = "ew2-hL-kGg"; */
+"ew2-hL-kGg.title" = "ConverterPr";
+
+/* Class = "UITextField"; placeholder = "Value"; ObjectID = "jWd-jz-obc"; */
+"jWd-jz-obc.placeholder" = "Valor";
+
+/* Class = "UITabBarItem"; title = "convertors"; ObjectID = "nPY-eV-eaT"; */
+"nPY-eV-eaT.title" = "convertidoras";
+
+/* Class = "UITabBarItem"; title = "MapPr"; ObjectID = "r9n-PH-Qu4"; */
+"r9n-PH-Qu4.title" = "MapPr";
+
+/* Class = "UILabel"; text = "Points of Interest Label"; ObjectID = "xSf-9C-3dB"; */
+"xSf-9C-3dB.text" = "Etiqueta de puntos de interés";
