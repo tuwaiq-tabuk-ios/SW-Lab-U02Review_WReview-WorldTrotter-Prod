@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  WorldTrotterApp-AbdulazizSaleem-Yousef
+
+  Created by Yousef Albalawi on 26/04/1443 AH.
+  
+*/
+
+"Stander" = "Estándar";
+
+"Hybrd" = "Híbrido";
+
+"Satellite" = "Satélite";
+
+"degrees Fahrenheit" = "grados Fahrenheit";
+
+
+"100" = "100";
+
+
+"map" = "Mapa";
+
+
+"Convert" = "Convertir";
+
+
+"Convert2" = "Convertir";
+
+
+"is really" = "es realmente";
+
+
+"212" = "212";
+
+
+"degrees Celsius" = "grados Celsius";
