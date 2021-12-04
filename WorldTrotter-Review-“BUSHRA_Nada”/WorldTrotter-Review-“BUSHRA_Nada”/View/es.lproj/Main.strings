@@ -1,0 +1,39 @@
+
+/* Class = "UITabBarItem"; title = "MapStory"; ObjectID = "FPN-yx-Nsx"; */
+"FPN-yx-Nsx.title" = "Mapa";
+
+/* Class = "UITextField"; placeholder = "value"; ObjectID = "IXI-fK-4zh"; */
+"IXI-fK-4zh.placeholder" = "valor";
+
+/* Class = "UISegmentedControl"; UH8-Ys-5Tu.segmentTitles[0] = "Standard"; ObjectID = "UH8-Ys-5Tu"; */
+"UH8-Ys-5Tu.segmentTitles[0]" = "Standard";
+
+/* Class = "UISegmentedControl"; UH8-Ys-5Tu.segmentTitles[1] = "Hybrid"; ObjectID = "UH8-Ys-5Tu"; */
+"UH8-Ys-5Tu.segmentTitles[1]" = "Hybrid";
+
+/* Class = "UISegmentedControl"; UH8-Ys-5Tu.segmentTitles[2] = "Satellite"; ObjectID = "UH8-Ys-5Tu"; */
+"UH8-Ys-5Tu.segmentTitles[2]" = "Satellite";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "b4n-Kb-tdn"; */
+"b4n-Kb-tdn.title" = "Mapa";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "cOh-kr-0jF"; */
+"cOh-kr-0jF.text" = "100";
+
+/* Class = "UILabel"; text = "is really"; ObjectID = "dbx-RR-UYS"; */
+"dbx-RR-UYS.text" = "es realmente";
+
+/* Class = "UILabel"; text = "Points of Interest"; ObjectID = "etZ-Dc-LyN"; */
+"etZ-Dc-LyN.text" = "Points of Interest";
+
+/* Class = "UITabBarItem"; title = "ConvertStory"; ObjectID = "hvv-Xx-0u8"; */
+"hvv-Xx-0u8.title" = "Convertir";
+
+/* Class = "UILabel"; text = "degrees Fahrenheit"; ObjectID = "pa3-1V-nui"; */
+"pa3-1V-nui.text" = "grados Fahrenheit";
+
+/* Class = "UILabel"; text = "degrees Celsius"; ObjectID = "qcV-lB-Kyr"; */
+"qcV-lB-Kyr.text" = "grados Celsius";
+
+/* Class = "UITabBarItem"; title = "Convert"; ObjectID = "tM5-ZI-SR5"; */
+"tM5-ZI-SR5.title" = "Convertir";
