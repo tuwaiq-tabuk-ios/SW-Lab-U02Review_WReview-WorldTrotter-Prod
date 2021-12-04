@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "100"; ObjectID = "0BU-q8-3kw"; */
+"0BU-q8-3kw.text" = "100";
+
+/* Class = "UILabel"; text = "degrees Celsius"; ObjectID = "0TZ-yq-KVX"; */
+"0TZ-yq-KVX.text" = "grados Celsius";
+
+/* Class = "UITabBarItem"; title = "map main"; ObjectID = "394-kd-0oK"; */
+"394-kd-0oK.title" = "map main";
+
+/* Class = "UIViewController"; title = "convert"; ObjectID = "7Nw-6l-XEg"; */
+"7Nw-6l-XEg.title" = "convert";
+
+/* Class = "UITabBarItem"; title = "convertmain"; ObjectID = "IR2-jB-yXg"; */
+"IR2-jB-yXg.title" = "convertmain";
+
+/* Class = "UITabBarItem"; title = "map"; ObjectID = "Jm9-gE-KFD"; */
+"Jm9-gE-KFD.title" = "Mapa";
+
+/* Class = "UILabel"; text = "is really"; ObjectID = "QDm-bO-46Q"; */
+"QDm-bO-46Q.text" = "es realmente";
+
+/* Class = "UITabBarItem"; title = "convert"; ObjectID = "iCg-yX-QI2"; */
+"iCg-yX-QI2.title" = "Convertir";
+
+/* Class = "UILabel"; text = "degrees Fahrenheit "; ObjectID = "leb-1f-HnA"; */
+"leb-1f-HnA.text" = "grados Fahrenheit";
+
+/* Class = "UITextField"; placeholder = "value"; ObjectID = "xlE-KJ-XOP"; */
+"xlE-KJ-XOP.placeholder" = "valor";
