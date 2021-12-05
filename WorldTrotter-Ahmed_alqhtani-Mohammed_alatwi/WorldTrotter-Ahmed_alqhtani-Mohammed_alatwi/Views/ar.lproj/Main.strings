@@ -1,0 +1,39 @@
+
+/* Class = "UILabel"; text = "degrees Fahrenheit"; ObjectID = "3fk-w9-Cdv"; */
+"3fk-w9-Cdv.text" = "درجة فهرنهايت";
+
+/* Class = "UITextField"; placeholder = "Value"; ObjectID = "CAo-bK-8V9"; */
+"CAo-bK-8V9.placeholder" = "قيمه";
+
+/* Class = "UILabel"; text = "212"; ObjectID = "CB6-Lg-rNM"; */
+"CB6-Lg-rNM.text" = "٢١٢";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "NsF-Ko-6Sl"; */
+"NsF-Ko-6Sl.text" = "١٠٠";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "QHp-RE-aWR"; */
+"QHp-RE-aWR.text" = "١٠٠";
+
+/* Class = "UILabel"; text = "Is Really"; ObjectID = "aMl-5Z-cCx"; */
+"aMl-5Z-cCx.text" = "حقا";
+
+/* Class = "UITabBarItem"; title = "Convert"; ObjectID = "c33-M9-4TQ"; */
+"c33-M9-4TQ.title" = "تحويل";
+
+/* Class = "UITabBarItem"; title = "ConvertIcon"; ObjectID = "dNA-HS-kCA"; */
+"dNA-HS-kCA.title" = "تحويل";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "f2M-ig-0b5"; */
+"f2M-ig-0b5.title" = "خريطه";
+
+/* Class = "UILabel"; text = "degrees Celsius"; ObjectID = "oMU-Lh-t4K"; */
+"oMU-Lh-t4K.text" = "درجه مئويه";
+
+/* Class = "UILabel"; text = "degrees Celsius"; ObjectID = "r3p-db-KS3"; */
+"r3p-db-KS3.text" = "ذرجه مئويه";
+
+/* Class = "UILabel"; text = "is Really"; ObjectID = "uGq-F7-ZzM"; */
+"uGq-F7-ZzM.text" = "حقا";
+
+/* Class = "UILabel"; text = "degrees Fahrenheit"; ObjectID = "yVe-5C-BqK"; */
+"yVe-5C-BqK.text" = "درجة الحراره";
